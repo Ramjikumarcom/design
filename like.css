@@ -1,0 +1,14 @@
+#count{
+    
+    display: inline-block;
+    width: 94px;
+    color: black;
+}
+
+#image img{
+    height: 300px;
+    width: 300px;
+     margin:  200px; 
+      border-radius: 10px;
+       border: 5px solid red;
+}
